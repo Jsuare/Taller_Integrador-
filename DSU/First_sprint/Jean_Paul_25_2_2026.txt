@@ -1,1 +1,3 @@
-A
+Yesterday, I obtained the license and started working on the Altium tutorials. 
+Today, I will continue with the tutorials and read part of the SIWA microcontroller documentation. 
+I am not experiencing any issues so far.
