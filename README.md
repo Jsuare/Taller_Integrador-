@@ -21,15 +21,27 @@ Estudiantes:
 
   ### Proyecto
 • Diseño y desarrollo de una plataforma de interconexión y prueba para el microcontrolador Siwa.
+
 • Diseño del circuito para conectar y hacer funcionar el microcontrolador Siwa
+
 • Selección de los componentes y creación del esquemático
+
 • Diseño de la tarjeta de prueba (PCB)
+
 • Validación prefabricación y DFM de la tarjeta de prueba
+
 • Fabricación de la tarjeta de prueba
+
 • Ensamblaje de la tarjeta de prueba
+
 • Medición de la tarjeta de prueba
+
 • Carga de programa, y verificación de funcionamiento del microcontrolador
+
 • Caracterización de consumo de potencia
+
 • Documentación del proyecto
+
 ### Metología
+
 • Esto bajo la metodología ágil para el desarrollo de proyectos en Ingeniería
