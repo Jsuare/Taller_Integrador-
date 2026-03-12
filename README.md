@@ -4,6 +4,7 @@
 ## Proyecto a Desarrollar y Metodología Ágil de Diseño en Ingeniería
 
 Profesores encargados: 
+
 Luis C. Rosales A, lrosales@itcr.ac.cr
 Dr. Renato Rimolo-Donadio, rrimolo@tec.ac.cr
 
