@@ -6,12 +6,17 @@
 Profesores encargados: 
 
 Luis C. Rosales A, lrosales@itcr.ac.cr
+
 Dr. Renato Rimolo-Donadio, rrimolo@tec.ac.cr
 
 Estudiantes: 
+
   Daniel Nuñez Murillo                   meji1026@estudiantec.cr
+
   Francisco Javier Suarez Sarmiento	     chiscojavi2000@estudiantec.cr
+  
   Laura Elena Brenes Espinoza	           lauritabrenes@estudiantec.cr
+  
   Jean Paul Dobrosky Espinoza	           2021079467@estudiantec.cr
 
   ### Proyecto
